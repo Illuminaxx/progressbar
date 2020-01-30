@@ -1,3 +1,4 @@
+![Screenshot](progressBar.PNG)
 This project is carried out in React with the use of hooks. It is a customizable progress bar.
 
 Technologies used :
